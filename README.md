@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+# Name:DHARMALINGAM S
+# Reg No:212223040037
 
 ## Aim:
 
